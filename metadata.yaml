@@ -1,0 +1,29 @@
+_repo: Adhesiones-a-la-Venta-de-los-Ferro-carriles-de-la-Provincia_67555
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Gonnet, Manuel B.
+    gutenberg_agent_id: '54316'
+    url: http://www.gutenberg.org/2009/agents/54316
+  - agent_name: Paz, M.
+    gutenberg_agent_id: '54317'
+    url: http://www.gutenberg.org/2009/agents/54317
+description: ''
+gutenberg_issued: '2022-03-03'
+identifiers:
+  gutenberg: '67555'
+language: es
+pgterms:marc905: 20080524154346gonnet
+pgterms:marc906: '1889'
+pgterms:marc907: AR
+production_note: Adrian Mastronardi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: Argentina :Tipografía Buenos Aires,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Adhesiones á la Venta de los Ferro-carriles de la Provincia
+url: http://www.gutenberg.org/ebooks/67555
