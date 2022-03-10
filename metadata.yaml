@@ -8,7 +8,12 @@ contributor:
   - agent_name: Paz, M.
     gutenberg_agent_id: '54317'
     url: http://www.gutenberg.org/2009/agents/54317
+covers:
+- cover_type: archival
+  image_path: 67555-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67555#Adhesiones-a-la-Venta-de-los-Ferro-carriles-de-la-Provincia
 gutenberg_issued: '2022-03-03'
 identifiers:
   gutenberg: '67555'
